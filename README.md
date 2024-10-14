@@ -126,7 +126,7 @@ If you want to exclude certain domains, use the **Block Domain** feature at the 
 <div style="text-align: center;">
 
 ## Video Usage 
-[![Video Usage](https://i.ibb.co/st2vXqG/Untitled-Project-Time-0-03-02-12.png)](https://www.youtube.com/watch?v=DlXZ7zNl_Gg)
+[![Video Usage](https://i.ibb.co/mb1qBtG/zeus-grabber-demo-Time-0-02-33-02.png)](https://www.youtube.com/watch?v=DlXZ7zNl_Gg)
 
 ## More Tools on Forums
 
