@@ -267,8 +267,8 @@ class DomainCheckerWorker(QThread):
                         self.progress.emit(f"{ip} Domains Founded : {len(domains)}")
                         with open(self.save_path, 'a') as file:
                             for domain in domains:
-                                if '.*' in str(domain):
-                                    domain = str(domain).split('.*')[1]
+                                if '*.' in str(domain):
+                                    domain = str(domain).split('*.')[1]
                                 #Emit Domain and WriteFile
                                 self.progress.emit(f"{domain}")
                                 file.write(f"{domain}\n")
@@ -1230,7 +1230,9 @@ class ZoneH_GrabThread(QThread):
                                     i += 1
 
                                     if '/' in domain:
-                                        domain = str(domain.split('/', 1)[0]).replace('...', '')
+                                        domain = str(domain.split('/', 1)[0])
+                                    if '...' in domain:
+                                        domain = str(domain).replace('...', '')
 
                                     output = f'[{i}] Domain : {domain} ---> Page >>> {page} | {date}'
                                     self.update_output.emit(output)

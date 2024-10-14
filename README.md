@@ -14,17 +14,17 @@ Enjoy using this tool for **free**! 🚀
 ## 📷 Screenshots :
 
 🌐 **Reverse IP**  
- ![Reverse IP](https://github.com/drcrypterdotru/Zeus-Grabber/blob/main/demo/demo_1.png)
+ ![Reverse IP](https://raw.githubusercontent.com/drcrypterdotru/Zeus-Grabber/main/demo/demo_1.png)
 
 🌐 **Generate IP**  
- ![Generate IP](https://github.com/drcrypterdotru/Zeus-Grabber/blob/main/demo/demo_2.png)
+ ![Generate IP](https://raw.githubusercontent.com/drcrypterdotru/Zeus-Grabber/main/demo/demo_2.png)
 
 🌐 **Google Grabber**  
- ![Google Grabber](https://github.com/drcrypterdotru/Zeus-Grabber/blob/main/demo/demo_3.png)
+ ![Google Grabber](https://raw.githubusercontent.com/drcrypterdotru/Zeus-Grabber/main/demo/demo_3.png)
 
 
 🌐 **Zone-H**  
- ![Zone-H](https://github.com/drcrypterdotru/Zeus-Grabber/blob/main/demo/demo_4.png)
+ ![Zone-H](https://raw.githubusercontent.com/drcrypterdotru/Zeus-Grabber/main/demo/demo_4.png)
 
 
 ## 🚒 Installation
@@ -60,8 +60,8 @@ You can download and run the **executable** from the [Releases section](#). No P
 |--------------------------|
 | 🔄 Reverse IP            |
 | ⚙️ IP Generator          |
-| 🔍 Google Search Automation |
-| 📜 Zone-H Username Input |
+| 🔍 Google Search Dork & SQLi |
+| 📜 Zone-H Grab Domain |
 
 <details>
   <summary>Usage Instructions</summary>
@@ -118,7 +118,7 @@ If you want to exclude certain domains, use the **Block Domain** feature at the 
   python Main.py
   ```
 
-- Or, use the executable version available in [Releases](#) for one-click access.
+- Or, use the executable version available in [Releases](#) for run the Zeus-Grabber.
 
 ---
 
@@ -126,7 +126,7 @@ If you want to exclude certain domains, use the **Block Domain** feature at the 
 <div style="text-align: center;">
 
 ## Video Usage 
-[![Video Usage](https://i.ibb.co/st2vXqG/Untitled-Project-Time-0-03-02-12.png)](https://www.youtube.com/watch?v=U9mGzYDeCHM)
+[![Video Usage](https://i.ibb.co/st2vXqG/Untitled-Project-Time-0-03-02-12.png)](https://www.youtube.com/watch?v=DlXZ7zNl_Gg)
 
 ## More Tools on Forums
 
